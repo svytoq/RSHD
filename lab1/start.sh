@@ -1,0 +1,1 @@
+ psql -h pg -d studs -f ~/RSHD/script.sql 2>&1
